@@ -2,6 +2,8 @@
 
 ## Link to my mind map [[HERE]](https://miro.com/app/board/uXjVMo_PI9I=/?share_link_id=161367035351)
 
+## Link to my Wiki [[HERE](https://github.com/dthomsen116/Capstone23-24/wiki)]
+
 ### Ideas so far
 
 My two main ideas so far are centered around accessibility in the world of technology and cybersecurity. For many reasons I wanted to focus on accessibility and making sure that we are able to [design and implement cybersecurity measures to fit the needs of all individuals](https://securityintelligence.com/articles/importance-of-accessible-inclusive-cybersecurity/). The two areas I would like to explore is possible clientele work, where I would work with people with disabilities and build them workstations and computers that would be both fully functional, and secure. The other possible area I could explore is making sure that classrooms and labs, or even courses, are made with both the [UDL\*](https://udlguidelines.cast.org/) and the [WCAG\*\*](https://www.w3.org/TR/WCAG22/) are kept in mind. 
