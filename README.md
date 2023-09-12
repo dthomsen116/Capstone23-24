@@ -1,7 +1,5 @@
 # Capstone 23-24
 
-## Link to my mind map [[HERE]](https://miro.com/app/board/uXjVMo_PI9I=/?share_link_id=161367035351)
-
 ## Link to my Wiki [[HERE]](https://github.com/dthomsen116/Capstone23-24/wiki)
 
 ### Ideas so far
