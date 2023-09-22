@@ -1,6 +1,6 @@
 # Capstone 23-24
 
-## Link to my Wiki [[HERE]](https://github.com/dthomsen116/Capstone23-24/wiki)
+# Wiki [[HERE]](https://github.com/dthomsen116/Capstone23-24/wiki)
 
 ### Ideas so far
 
