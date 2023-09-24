@@ -26,7 +26,7 @@ This capstone project focuses all around **Accessibiliy in Cybersecurity** and l
 - [x] Explain what each source is and how it can contribute to the project
 
 ## Milestone 3.2:
-- [x] Create a [design project](https://github.com/dthomsen116/Capstone23-24/wiki/Design-Project-1-Objectives) that pertains to the project
+- [x] Create a [design project](https://github.com/dthomsen116/Capstone23-24/wiki/Design-Project-1) that pertains to the project
 - [x] Include different tasks that can be completed with this project
 - [x] Provide a demonstration
 
