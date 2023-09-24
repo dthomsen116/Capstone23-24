@@ -10,7 +10,7 @@ This capstone project focuses all around **Accessibiliy in Cybersecurity** and l
 
 ----------------
 
-# Milestones
+# Milestones -- Also found [here](https://github.com/dthomsen116/Capstone23-24/milestones?with_issues=no)
 
 ## Milestone 1.1:
 - [x] Get a Github up and Running
