@@ -1,33 +1,50 @@
 # Capstone 23-24
 
-# Wiki - [HERE](https://github.com/dthomsen116/Capstone23-24/wiki)
+# Welcome to [David's Capstone Project]
 
----------------
+## Table of Contents
 
-# Summary of Goals and Ideas:
+- [About](#about)
+- [Milestones](#milestones)
+- [Links](#links)
+- [FAQ](#faq)
+- [Contact](#contact)
 
-This capstone project focuses all around **Accessibiliy in Cybersecurity** and looks into databasing different accessibility tools as well as working with these tools in order to help people with disabilities interact with the digital world in the most effective ways. I plan to use this database and experience later in the semester in order to work with a client and create an environment for them that is both accessible and secure. Below I have listed the milestones that have been provided and links to the created work for each
+---
 
-----------------
+## About
 
-# Milestones -- Also found [here](https://github.com/dthomsen116/Capstone23-24/milestones?with_issues=no)
+This capstone project is driven by my commitment to advancing accessibility and inclusivity in both digital and physical settings. My mission is to develop a comprehensive framework or accessibility resource that caters to the unique needs of individuals with disabilities. Through diligent research, evaluation, and collaboration, I aim to create a more accessible digital world.
 
-## Milestone 1.1:
-- [x] Get a Github up and Running
+## Milestones
 
-## Milestone 1.2:
-- [x] Create an [idea list](https://github.com/dthomsen116/Capstone23-24/wiki/1.2-Idea-List)
+- [1.1 Github Wiki Site](https://github.com/dthomsen116/Capstone23-24/milestone/1)
+- [1.2 Potential Topic List](https://github.com/dthomsen116/Capstone23-24/milestone/2)
+- [2.1 Topic Decomposition](https://github.com/dthomsen116/Capstone23-24/milestone/3)
+- [2.2 College Research Resources](https://github.com/dthomsen116/Capstone23-24/milestone/4)
+- [3.2 Design Project 1 Objectives](https://github.com/dthomsen116/Capstone23-24/milestone/5)
 
-## Milestone 2.1:
-- [x] Develop (and export) a [mind map]() and plan out ideas and possible directions.
+## Links
 
-## Milestone 2.2:
-- [x] Create a [source list](https://github.com/dthomsen116/Capstone23-24/wiki/Sources) that uses relible sources
-- [x] Explain what each source is and how it can contribute to the project
+- [Wiki](https://github.com/dthomsen116/Capstone23-24/wiki)
+- [Project Board](https://github.com/users/dthomsen116/projects/4)
+- [Mind Map](https://github.com/dthomsen116/Capstone23-24/wiki/Mind-Map)
+- 
 
-## Milestone 3.2:
-- [x] Create a [design project](https://github.com/dthomsen116/Capstone23-24/wiki/Design-Project-1) that pertains to the project
-- [x] Include different tasks that can be completed with this project
-- [x] Provide a demonstration
 
-> I chose for this milestone to create a Virtual server that I can use alongside my research to create sandbox environments to test different accessible applications, services, etc.
+## FAQ
+
+Have questions about [Your Wiki Name]? Check out our frequently asked questions for answers to common queries:
+
+- [Frequently Asked Questions](#link-to-faq-page)
+
+## Contact
+
+Need to get in touch with us? Here's how:
+
+- [Contact Us](#link-to-contact-information)
+
+---
+
+Thank you for being part of [Your Wiki Name]. Together, we can create a valuable resource for our community.
+
