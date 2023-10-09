@@ -1,5 +1,3 @@
-# Capstone 23-24
-
 # Welcome to David's Capstone Project
 
 ## Table of Contents
