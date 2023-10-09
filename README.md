@@ -7,7 +7,6 @@
 - [About](#about)
 - [Milestones](#milestones)
 - [Links](#links)
-- [FAQ](#faq)
 - [Contact](#contact)
 
 ---
@@ -29,22 +28,18 @@ This capstone project is driven by my commitment to advancing accessibility and 
 - [Wiki](https://github.com/dthomsen116/Capstone23-24/wiki)
 - [Project Board](https://github.com/users/dthomsen116/projects/4)
 - [Mind Map](https://github.com/dthomsen116/Capstone23-24/wiki/Mind-Map)
-- 
+- [Design Project 1](https://github.com/dthomsen116/Capstone23-24/wiki/Design-Project-1)
 
 
-## FAQ
-
-Have questions about [Your Wiki Name]? Check out our frequently asked questions for answers to common queries:
-
-- [Frequently Asked Questions](#link-to-faq-page)
 
 ## Contact
 
 Need to get in touch with us? Here's how:
 
-- [Contact Us](#link-to-contact-information)
+- Email: dthom.cap24@gmail.com
+- Linkedin: https://www.linkedin.com/in/thomsendavid/
 
 ---
 
-Thank you for being part of [Your Wiki Name]. Together, we can create a valuable resource for our community.
+
 
