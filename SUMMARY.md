@@ -5,7 +5,9 @@
 
 ## 🖥 Defualt OS Tools
 
-* [Page 1](defualt-os-tools/page-1.md)
+* [Windows](defualt-os-tools/windows.md)
+* [Mac](defualt-os-tools/mac.md)
+* [Linux (Ubuntu)](defualt-os-tools/linux-ubuntu.md)
 
 ## 🛠 Generalized Tools
 
