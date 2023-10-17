@@ -1,6 +1,7 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [Accessibility Tools Database](README.md)
+* [👋 Welcome to A Product](<README (1).md>)
 
 ## Overview
 
@@ -22,3 +23,7 @@
 
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)
+
+***
+
+* [Categorizing Disabilities by Use-Case](categorizing-disabilities-by-use-case.md)
