@@ -5,7 +5,7 @@
 
 ## 🖥 Defualt OS Tools
 
-* [Windows](defualt-os-tools/windows.md)
+* [Windows 11](defualt-os-tools/windows-11.md)
 * [Mac](defualt-os-tools/mac.md)
 * [Linux (Ubuntu)](defualt-os-tools/linux-ubuntu.md)
 
