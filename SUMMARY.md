@@ -6,7 +6,7 @@
 ## 🖥 Defualt OS Tools
 
 * [Windows 11](defualt-os-tools/windows-11.md)
-* [Mac](defualt-os-tools/mac.md)
+* [Mac OS Sonoma](defualt-os-tools/mac-os-sonoma.md)
 * [Linux (Ubuntu)](defualt-os-tools/linux-ubuntu.md)
 
 ## 🛠 Generalized Tools
